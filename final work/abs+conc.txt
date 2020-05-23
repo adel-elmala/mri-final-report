@@ -1,0 +1,17 @@
+Abstact:
+
+After its introduction in 1985, diffusion-weighted magnetic resonance imaging has developed and has been influential in the treatment and examination of tissue functions of different tissues, including the cortex, cartilage, and liver. Although brain-related pathology and/or investigation remains the main application, diffusion weighted magnetic resonance imaging (DWI) is becoming a standard in oncology and several other applications. 
+
+
+
+The image contrast is determined by the random microscopic motion of the water protons in the diffusion-weighted MRI (DWI). Over the last few years, DWI seems to be an important modality in the diagnosis of acute ischemia in the CNS. There are also a few positive studies on the use of DWI in other regions of the human body, such as the vertebral column or the abdomen.
+
+
+
+
+In this overview article includes a concise guide to the diffusion of weighted magnetic resonance imaging, the problems associated and recent developments.
+conclusion :
+
+DWI has seen rapid growth and development, rapidly increasing from an experimental tool to a well-established clinical methodology, the primary use of which has been to evaluate acute cerebral ischemia. Like T1-and T2-relaxation, diffusivity can be thought of as an intrinsic tissue property. Therefore, DWI can also be of interest in the visualization of extracranial organs, such as strong organs in the liver, or defects in the musculoskeletal system. The ability to assess in-vivo diffusion coefficients has a strong potential to further our knowledge of natural and pathological physiology, as well as to classify focal and diffuse diseases within the human body.
+
+Historically, large-scale muscular activities have hampered the application of DWI to a wide variety of clinical problems. Nevertheless, advances in MR technology, pulse sequences and computer science have led to a reliable device with a fair image quality and outstanding diagnostic ability. With the most recent technical advances, further clinical pathways are now warranted to prove the ability of DWI to facilitate the diagnosis of other diseases.
